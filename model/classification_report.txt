@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+   hatchback       1.00      0.65      0.79        43
+         mpv       0.90      0.98      0.94        47
+       sedan       0.87      0.98      0.92        46
+         suv       0.87      0.96      0.91        48
+
+    accuracy                           0.90       184
+   macro avg       0.91      0.89      0.89       184
+weighted avg       0.91      0.90      0.89       184
